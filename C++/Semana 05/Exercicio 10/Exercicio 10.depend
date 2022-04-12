@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600193286 source:d:\gustavo\sistemas de informação\algoritmos\c++\semana 05\exercicio 10\main.cpp
+	<iostream>
+	<locale.h>
+
